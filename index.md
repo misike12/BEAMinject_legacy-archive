@@ -1,6 +1,5 @@
 ---
-#layout: default
-theme: jekyll-theme-minimal
+layout: default
 ---
 
 ## :computer: Support
