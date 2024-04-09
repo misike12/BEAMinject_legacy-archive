@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "OpenM"
+title: "BEAMinject by OpenM"
 ---
 
 ## :computer: Support
