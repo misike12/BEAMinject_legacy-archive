@@ -3,6 +3,15 @@ layout: default
 title: "BEAMinject by OpenM"
 ---
 
+## :wrench: Versions
+BEAMinject comes in 2 versions:
+- **BEAMinject:** Used for silently launching Minecraft then exiting
+    - Recommended for most users
+- **BEAMinject_GUI:** GUI version, mostly used for debugging etc.
+    - Includes toggles for launching Minecraft, displays injection logs
+
+We recommend trying BEAMinject first, and if you have issues, you can move to the GUI version for debugging.
+
 ## :computer: Support
 This only works on Windows,
 and won't be ported to other platforms *(for obvious reasons)*.
