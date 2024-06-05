@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "BEAMinject by OpenM"
+title: "BEAMinject by wavEye"
 ---
 
 ## :wrench: Versions
@@ -20,15 +20,13 @@ There is [**nothing we can do about this**](https://github.com/pyinstaller/pyins
 Since the code is open and all builds are distributed via GitHub Actions, you can confirm that the executable is safe and whitelist it in your AV software!
 
 ## :test_tube: ARM support
-Read support status [here](https://github.com/OpenM-Project/BEAMinject/blob/main/ARMstatus.md).
+Read support status [here](https://github.com/wavEye-Project/BEAMinject/blob/main/ARMstatus.md).
 
 ## :computer: Support
 This only works on Windows,
 and won't be ported to other platforms *(for obvious reasons)*.
 
-For all support needed, you can open an issue!
-And you can join our [Discord](https://dsc.gg/openm "OpenM Community") server
-for further support needed.
+For all support needed, you can open an issue.
 
 ## :page_with_curl: License
 All code and assets are licensed under GNU AGPLv3.
